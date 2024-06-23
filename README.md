@@ -33,3 +33,6 @@ In order to run the acceptance tests, run `make testacc`.
 ```sh
 $ make testacc
 ```
+
+## Publish Releases
+[Reference](https://developer.hashicorp.com/terraform/registry/providers/publishing#using-goreleaser-locally)
